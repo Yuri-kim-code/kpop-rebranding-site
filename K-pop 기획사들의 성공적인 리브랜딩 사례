@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>K-pop 리브랜딩 사례</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px; background-color: #fdfdfd; }
+    h1 { text-align: center; color: #e60033; margin-bottom: 50px; }
+    section { margin-bottom: 40px; padding: 15px; border-bottom: 1px solid #ddd; }
+    h2 { color: #e60033; margin-bottom: 10px; }
+    h3 { color: #333; margin-bottom: 8px; }
+    p { line-height: 1.6; }
+  </style>
+</head>
+<body>
+
+  <h1>K-pop 리브랜딩 성공 사례</h1>
+
+  <section>
+    <h2>HYBE (구 Big Hit Entertainment)</h2>
+    <h3>이전 컨셉: 소규모 힙합 중심 음악 레이블</h3>
+    <p>2021년 음악 기반 엔터테인먼트 라이프스타일 기업으로 전면 리브랜딩했다. BTS의 글로벌 성공을 발판으로 멀티레이블 시스템을 도입하고, Weverse 플랫폼·Ithaca Holdings 인수 등 테크·콘텐츠 생태계를 구축했다. 리브랜딩 원년인 2021년 연매출 1조 원을 돌파하며 기존 빅3를 합산한 규모를 넘어서는 K-pop 최대 기획사로 올라섰다.</p>
+  </section>
+
+  <section>
+    <h2>SM Entertainment</h2>
+    <h3>이전 컨셉: 아이돌 공장형 트레이닝 시스템 (Cultural Technology)</h3>
+    <p>2023년 대규모 경영진 교체를 계기로 'Neo SM' 체제로 전환, 멀티레이블 구조와 글로벌 A&R 시스템을 강화했다. 기존 획일적 아이돌 제조 방식에서 벗어나 aespa의 메타버스 세계관, NCT의 무한 확장 컨셉 등 실험적·고예산 하이컨셉 크리에이티브를 전면에 내세워 팬덤의 예술적 몰입도를 높였다.</p>
+  </section>
+
+  <section>
+    <h2>JYP Entertainment</h2>
+    <h3>이전 컨셉: 박진영 색채의 R&B·소울 중심 프로덕션</h3>
+    <p>2010년대 후반부터 '현지화를 통한 글로벌화(Globalization by Localization)' 전략으로 리브랜딩했다. TWICE·Stray Kids·ITZY로 장르를 다변화하고, 2023년 Republic Records와 협력해 미국 걸그룹 VCHA를 론칭하는 등 K-pop 트레이닝 시스템을 해외 시장에 직접 이식하는 방식으로 글로벌 팬덤을 확장했다.</p>
+  </section>
+
+  <section>
+    <h2>YG Entertainment</h2>
+    <h3>이전 컨셉: 국내 힙합·스트리트 장르 특화 레이블</h3>
+    <p>2010년대 중반부터 글로벌 패션·럭셔리 브랜드 협업을 핵심 전략으로 삼아 하이엔드 비주얼 브랜딩으로 전환했다. BLACKPINK의 샤넬·셀린느 앰버서더 활동과 Interscope Records 파트너십을 통해 미국 주류 시장에 안착했으며, 희소성 있는 컴백 전략으로 '문화적 이벤트' 이미지를 구축해 글로벌 팬덤의 기대감을 극대화했다.</p>
+  </section>
+
+</body>
+</html>
